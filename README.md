@@ -1,5 +1,4 @@
 # Flappy-Bird
-Flappy Bird Description
 A simple Flappy Bird clone built with Unity and C#
 ## Gameplay
 - Click to make the bird flap upwards.  
